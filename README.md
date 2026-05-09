@@ -3,7 +3,6 @@ Tech enthusiast | Problem solver | Always learning 🚀
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-kirti-kumar-6389b3259)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kirti_kushwaha002378)
 
